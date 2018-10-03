@@ -3,6 +3,7 @@
 Here is an example of what your `bref.php` file should contain:
 
 ```php
+#!/usr/bin/env php
 <?php
 
 use App\Kernel;
